@@ -1,0 +1,8 @@
+C:\Users\moham\Desktop\Eyad salman task 2 perfect numbers\bin\Debug\Eyad salman task 2 perfect numbers.exe.config
+C:\Users\moham\Desktop\Eyad salman task 2 perfect numbers\bin\Debug\Eyad salman task 2 perfect numbers.exe
+C:\Users\moham\Desktop\Eyad salman task 2 perfect numbers\bin\Debug\Eyad salman task 2 perfect numbers.pdb
+C:\Users\moham\Desktop\Eyad salman task 2 perfect numbers\obj\Debug\Eyad salman task 2 perfect numbers.csproj.AssemblyReference.cache
+C:\Users\moham\Desktop\Eyad salman task 2 perfect numbers\obj\Debug\Eyad salman task 2 perfect numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\Desktop\Eyad salman task 2 perfect numbers\obj\Debug\Eyad salman task 2 perfect numbers.csproj.CoreCompileInputs.cache
+C:\Users\moham\Desktop\Eyad salman task 2 perfect numbers\obj\Debug\Eyad salman task 2 perfect numbers.exe
+C:\Users\moham\Desktop\Eyad salman task 2 perfect numbers\obj\Debug\Eyad salman task 2 perfect numbers.pdb
